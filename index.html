@@ -12,7 +12,7 @@
 	<link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-	<main class="bg-white font-montserrat">
+	<main class="bg-white font-montserrat" id="profile">
 		<header class="h-24 sm:h-32 flex items-center">
 			<div class="container mx-auto px-6 sm:px-12 flex items-center justify-between">
 				<div class="text-black text-2xl flex items-center">
@@ -33,10 +33,10 @@
 				</div>
 				<div class="flex items-center">
 					<nav class="text-black text-lg hidden lg:flex items-center">
-						<a href="#" class="py-2 px-6 flex hover:text-green-500 hidden">
+						<a href="/" class="py-2 px-6 flex hover:text-green-500">
 							Home
 						</a>
-						<a href="#" class="py-2 px-6 flex hover:text-green-500 hidden">
+						<a href="/about" class="py-2 px-6 flex hover:text-green-500">
 							About us
 						</a>
 						<a href="#" class="py-2 px-6 flex hover:text-green-500 hidden">
@@ -318,7 +318,7 @@
 				<span class="text-6xl font-black text-gray-200 absolute top-0 left-0">1</span>
 				<div class="mt-8 ml-6 relative z-10 flex flex-col">
 					<h4 class="font-bold text-gray-400 uppercase font-xs leading-none">Skill</h4>
-					<p class="text-gray-600 leading-relaxed text-lg mt-2">Digi-wizard teams of 4,000+ certified experts
+					<p class="text-gray-600 leading-relaxed text-lg mt-2">Teams of 10+ certified experts
 						in various platforms & technologies (php, laravel, bootstrap, tailwindcss, wordpress, ec-cube,
 						codeigniter, .net, etc.) to help customers transform their business models.</p>
 				</div>
@@ -477,8 +477,7 @@
 		<div class="container mx-auto px-6 flex flex-col items-center">
 			<h3 class="text-center font-bold text-4xl text-gray-800 mb-4">Voice of Our Customers</h3>
 			<p class="text-gray-600 leading-relaxed text-lg mb-8 text-center">
-				Over the years, Tipici has proudly been partner with more than 600 customers, 100 of which are Fortune
-				500s. Our customer’s satisfaction and achievements is the ultimate indication of our own success.
+				Over the years, Tipici has proudly been partner with more than 60 customers. Our customer’s satisfaction and achievements is the ultimate indication of our own success.
 			</p>
 			<button class="mx-auto bg-green-600 hover:bg-green-500 text-white rounded py-3 px-8 shadow-lg text-xl">
 				Contact now
@@ -505,9 +504,33 @@
 				<a href="#" class="text-white mx-2">Work</a>
 			</div>
 			<div class="flex justify-center sm:justify-end border-t border-gray-700 text-gray-400 py-10 mt-16">
-				Copyright © 2020 <a href="https://tipici.vn" class="text-white mx-2">Tipici.vn</a>
+				Copyright © 2020&nbsp;
+				<svg width="33" height="28" xmlns="http://www.w3.org/2000/svg" class="nui-svg nui-svg-mountains">
+					<g fill="none" fill-rule="evenodd">
+						<path class="fill-nuxt-lightgreen" fill="#00C58E"
+							d="m19.27238,20.20885l-2.02929,-2.02929l-1.13623,-1.13635l-1.2222,-1.2222c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38051,-0.38073 0.38051,-0.99801 -0.00012,-1.37875z" />
+						<path class="fill-nuxt-lightgreen" fill="#00C58E"
+							d="m12.33299,13.26956l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38073,-0.38084 0.38073,-0.99801 0,-1.37875z" />
+						<path class="fill-nuxt-green" fill="#108775"
+							d="m19.27238,6.33017l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-1.15402,1.15402l-1.13646,1.13646l-2.09724,2.09736c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38051,-0.38073 0.38051,-0.99801 -0.00012,-1.37875l-0.00001,0.00001z" />
+						<path class="fill-current" fill="#2f495e"
+							d="m26.21167,13.26956l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37864,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37864,0l4.38784,-4.38784c0.38073,-0.38084 0.38073,-0.99801 0,-1.37875z"
+							fill-rule="nonzero" />
+					</g>
+				</svg>
+				<a href="https://tipici.vn" class="text-white">Tipici.vn</a>
 			</div>
 		</div>
 	</footer>
+	
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-170494133-2"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-170494133-2');
+	</script>
+
 </body>
 </html>
