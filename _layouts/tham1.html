@@ -1,0 +1,105 @@
+---
+layout: default
+---
+
+<section id="page-breadcrumb">
+    <div class="vertical-center sun">
+         <div class="container">
+            <div class="row">
+                <div class="action">
+                    <div class="col-sm-12">
+                        <h1 class="title">{{ page.title }}</h1>
+                        {{ page.content }}
+                        <div id="search-searchbar"></div>
+                    </div>
+                 </div>
+            </div>
+        </div>
+    </div>
+  </section>
+  <!--/#page-breadcrumb-->
+
+<section id="recent-{{ page.catname | slugify: 'latin' }}" class="recent-projects">
+    <div class="container">
+      <div id="search-category"></div>  
+      <div class="row padding-top" id="search-hits">
+        {% for item in site.data.thams %}
+        <div class="col-sm-3 wow fadeIn" data-wow-duration="1000ms" data-wow-delay="300ms">
+            <div class="portfolio-wrapper">   
+                <div class="portfolio-single">
+                    <div class="portfolio-thumb">
+                        <a href="http://tham.cualuoidanang.com/sanphamchitiet.php?sp={{ item.id }}&khuvuc[]=sg&khuvuc[]=dn"><img src="http://tham.cualuoidanang.com/galleries/{{ item.id }}.jpg" class="img-responsive" alt="{{ item.desc }}"></a>
+                    </div>
+                </div>
+                <div class="item-info">
+                    <p class="text-primary1 price1">{{ item.price | join: "<br>" }}</p>
+                    {{ item.category }}
+                </div>
+                <div class="item-sku">
+                    {{ item.id }}
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+      </div>
+      <div id="search-pagination"></div>  
+    </div>
+</section>
+<!--/#recent-category-->
+
+<section id="action" class="responsive">
+    <div class="vertical-center">
+         <div class="container">
+            <div class="row">
+                <div class="action take-tour">
+                    <div class="col-sm-7 wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="300ms">
+                        <h1 class="title">Hãy liên hệ ngay với chúng tôi</h1>
+                        <p>Để được tư vấn tận tình &amp; chi tiết nhất.</p>
+                    </div>
+                    <div class="col-sm-5 text-center wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
+                        <div class="tour-button">
+                            <a href="tel:0976880020" class="btn btn-common">0976.88.00.20</a>
+                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--/#action-->
+
+<section id="services">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="300ms">
+                <div class="single-service">
+                    <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="300ms">
+                        <img src="/images/home/icon1.png" alt="">
+                    </div>
+                    <h2>SẢN PHẨM ĐA DẠNG</h2>
+                    <p>Nhiều lựa chọn mẫu mã, tự cuốn, xếp, cố định…. và màu sắc theo kiến trúc ngôi nhà bạn.</p>
+                </div>
+            </div>
+            <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
+                <div class="single-service">
+                    <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms">
+                        <img src="/images/home/icon2.png" alt="">
+                    </div>
+                    <h2>THẨM MỸ KIẾN TRÚC</h2>
+                    <p>Cửa lưới, rèm cửa hoà hợp và không làm ảnh hưởng tới kiến trúc sẵn có ban đầu của ngôi nhà.</p>
+                </div>
+            </div>
+            <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
+                <div class="single-service">
+                    <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
+                        <img src="/images/home/icon3.png" alt="">
+                    </div>
+                    <h2>BẢO HÀNH</h2>
+                    <p>{{ site.name }} cam kết sản phẩm chính hãng, bảo hành sản phẩm trong vòng 12 tháng</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--/#services-->
+{% include algolia.html %}

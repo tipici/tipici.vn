@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+  {% include meta.html %}
+
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <link rel="stylesheet" type="text/css" href="/css/tailwind.min.css" />
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+
+  <link rel="shortcut icon" href="/images/ico/favicon.ico">
+  <link rel="icon" type="image/png" href="/images/ico/app-icon144x144@4x.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/ico/app-icon144x144@4x.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/ico/app-icon114x114@3x.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/ico/app-icon72x72@2x.png">
+  <link rel="apple-touch-icon-precomposed" href="/images/ico/app-icon57.png">
+
+  <script type="application/ld+json">
+    {"@context":"https://schema.org","@graph":[{"@type":["Organization","Place","LocalBusiness"],"@id":"https://cualuoidanang.com/#localbusiness","name":"CửaLướiĐàNẵng.com","url":"https://cualuoidanang.com/","sameAs":["https://www.facebook.com/cualuoidanang/"],"logo":{"@type":"ImageObject","@id":"https://cualuoidanang.com/#logo","url":"https://cualuoidanang.com/images/logo.png","caption":"CửaLướiĐàNẵng.com"},"image":"https://cualuoidanang.com/images/logo.png","address":{"@type":"PostalAddress","streetAddress":"319 Phù Đổng, Phường Hòa Xuân, Cẩm Lệ","addressLocality":"Cẩm Lệ","addressRegion":"Đà Nẵng","postalCode":"550000","addressCountry":"VN"},"priceRange":"200.000₫ - 1.650.000₫","email":"trangtrinhasinhtai@gmail.com","telephone":"0976 88 00 20"},{"@type":"WebSite","@id":"https://cualuoidanang.com/#website","url":"https://cualuoidanang.com/","name":"Chuyên cung cấp cửa lưới chống muỗi tại Đà Nẵng 0976 88 00 20","publisher":{"@id":"https://cualuoidanang.com/#publisher"}},{"@type":"ProfilePage","@id":"https://cualuoidanang.com/#profilepage","url":"https://cualuoidanang.com/","inLanguage":"vi","name":"Chuyên cung cấp và thi công các sản phẩm Cửa Lưới chống muỗi-côn trùng công nghệ Nhật Bản, Màn rèm, Tranh dán tường 3D-5D-8D, Giấy dán tường, Vải dán tường, Giàn phơi thông minh,...","isPartOf":{"@id":"https://cualuoidanang.com/#ispartof"}},{"@type":["Person"],"@id":"https://cualuoidanang.com/#author","name":"Kinh doanh","image":{"@type":"ImageObject","@id":"https://cualuoidanang.com/#authorlogo","url":"https://cualuoidanang.com/","caption":"Kinh doanh"},"sameAs":[]},{"@type":"Place","@id":"https://cualuoidanang.com/#local-place","address":{"@type":"PostalAddress","@id":"https://cualuoidanang.com/#local-place-address","streetAddress":"319 Phù Đổng, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","addressLocality":"Đà Nẵng","postalCode":"550000","addressRegion":"Đà Nẵng","addressCountry":""},"geo":{"@type":"GeoCoordinates","latitude":"15.9948519","longitude":"108.1983046"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],"opens":"07:30","closes":"17:30"}],"telephone":"0976 88 00 20"}]}
+  </script>
+  {% if page.title %}
+    {% if page.categories %}
+  <script type="application/ld+json">
+    {"@context":"https://schema.org/","@type":"BreadcrumbList","@id":"https://cualuoidanang.com/#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"{{ page.url }}#category","url":"https://cualuoidanang.com{{ page.url }}","name":"{{ page.categories | join: ', ' }}"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"{{ page.url }}","url":"https://cualuoidanang.com{{ page.url }}","name":"{{ page.title }}"}}]}
+  </script>
+    {% else %}
+  <script type="application/ld+json">
+    {"@context":"https://schema.org/","@type":"BreadcrumbList","@id":"https://cualuoidanang.com/#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"{{ page.url }}","url":"https://cualuoidanang.com{{ page.url }}","name":"{{ page.title }}"}}]}
+  </script>
+    {% endif %}
+  {% else %}
+  <script type="application/ld+json">
+    {"@context": "https://schema.org/","@type":"BreadcrumbList","@id":"https://cualuoidanang.com/#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://cualuoidanang.com/#breadcrumlist1","url":"https://cualuoidanang.com/","name":"Cửa lưới chống muỗi"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://cualuoidanang.com/man-rem/#breadcrumlist2","url":"https://cualuoidanang.com/man-rem","name":"Màn rèm"}}]}
+  </script>
+  {% endif %}
+
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PHMD6Q8');</script>
+  <!-- End Google Tag Manager -->
+  
+</head>
+
+<body>
+  <header class="text-gray-600 body-font">
+    <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+      <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
+        <svg width="33" height="28" xmlns="http://www.w3.org/2000/svg" fill="none" class="">
+          <g fill="none" fill-rule="evenodd">
+            <path class="fill-nuxt-lightgreen" fill="#00C58E" d="m19.27238,20.20885l-2.02929,-2.02929l-1.13623,-1.13635l-1.2222,-1.2222c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38051,-0.38073 0.38051,-0.99801 -0.00012,-1.37875z"></path>
+            <path class="fill-nuxt-lightgreen" fill="#00C58E" d="m12.33299,13.26956l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38073,-0.38084 0.38073,-0.99801 0,-1.37875z"></path>
+            <path class="fill-nuxt-green" fill="#108775" d="m19.27238,6.33017l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-1.15402,1.15402l-1.13646,1.13646l-2.09724,2.09736c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38051,-0.38073 0.38051,-0.99801 -0.00012,-1.37875l-0.00001,0.00001z"></path>
+            <path class="fill-current" fill="#2f495e" d="m26.21167,13.26956l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37864,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37864,0l4.38784,-4.38784c0.38073,-0.38084 0.38073,-0.99801 0,-1.37875z" fill-rule="nonzero"></path>
+          </g>
+        </svg>
+        <span class="ml-3 text-xl">{{ site.name }}</span>
+      </a>
+      <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
+        <a class="mr-5 hover:text-gray-900" href="/">Home</a>
+        <a class="mr-5 hover:text-gray-900" href="/blog">Blog</a>
+        <a class="mr-5 hover:text-gray-900" href="/about">About</a>
+      </nav>
+      <a href="tel:{{ site.phone }}">
+        <button class="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">{{ site.phone }}
+          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-1" viewBox="0 0 24 24">
+            <path d="M5 12h14M12 5l7 7-7 7"></path>
+          </svg>
+        </button>
+      </a>
+    </div>
+  </header>
+
+  {{ content }}
+
+  <footer class="text-gray-600 body-font">
+    <div class="container px-5 py-24 mx-auto">
+      <div class="flex flex-wrap md:text-left text-center order-first">
+        <div class="lg:w-1/4 md:w-1/2 w-full px-4">
+          <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">WEBSITE</h2>
+          <nav class="list-none mb-10">
+            <li>
+              <a class="text-gray-600 hover:text-gray-800">Website</a>
+            </li>
+            <li>
+              <a class="text-gray-600 hover:text-gray-800">SEO</a>
+            </li>
+            <li>
+              <a class="text-gray-600 hover:text-gray-800">HTML Design</a>
+            </li>
+            <li>
+              <a class="text-gray-600 hover:text-gray-800">Illustration</a>
+            </li>
+            <li>
+              <a class="text-gray-600 hover:text-gray-800">...</a>
+            </li>
+          </nav>
+        </div>
+        <div class="lg:w-1/4 md:w-1/2 w-full px-4">
+          <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">SOFTWARE</h2>
+          <nav class="list-none mb-10">
+            <li>
+              <a class="text-gray-600 hover:text-gray-800">Erp</a>
+            </li>
+            <li>
+              <a class="text-gray-600 hover:text-gray-800">Crp</a>
+            </li>
+            <li>
+              <a class="text-gray-600 hover:text-gray-800">EMS</a>
+            </li>
+            <li>
+              <a class="text-gray-600 hover:text-gray-800">...</a>
+            </li>
+          </nav>
+        </div>
+        <div class="lg:w-1/4 md:w-1/2 w-full px-4">
+          <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">OTHER</h2>
+          <nav class="list-none mb-10">
+            <li>
+              <a class="text-gray-600 hover:text-gray-800">IoT</a>
+            </li>
+            <li>
+              <a class="text-gray-600 hover:text-gray-800">AI</a>
+            </li>
+            <li>
+              <a class="text-gray-600 hover:text-gray-800">Big Data</a>
+            </li>
+            <li>
+              <a class="text-gray-600 hover:text-gray-800">Smart Home</a>
+            </li>
+            <li>
+              <a class="text-gray-600 hover:text-gray-800">...</a>
+            </li>
+          </nav>
+        </div>
+        <div class="lg:w-1/4 md:w-1/2 w-full px-4">
+          <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CALL ME</h2>
+          <div class="bg-gray-100 rounded-lg p-2 flex flex-col md:ml-auto w-full mt-10 md:mt-0">
+            <div class="relative mb-4">
+              <input type="text" name="name" id="name" class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:bg-transparent focus:ring-2 focus:ring-green-200 focus:border-green-500 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out" required="required" placeholder="Tên Anh/Chị">
+            </div>
+            <div class="relative mb-4">
+              <input type="text" name="phone" id="phone" class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:bg-transparent focus:ring-2 focus:ring-green-200 focus:border-green-500 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out" required="required" placeholder="Điện thoại">
+            </div>
+            <div class="relative mb-4">
+              <input type="text" name="message" id="message" class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:bg-transparent focus:ring-2 focus:ring-green-200 focus:border-green-500 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out" required="required" placeholder="Ghi chú">
+            </div>
+            <button class="lg:mt-2 xl:mt-0 flex-shrink-0 inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded">Button</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="bg-gray-100">
+      <div class="container px-5 py-6 mx-auto flex items-center sm:flex-row flex-col">
+        <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
+          <svg width="33" height="28" xmlns="http://www.w3.org/2000/svg" class="nui-svg nui-svg-mountains">
+            <g fill="none" fill-rule="evenodd">
+              <path class="fill-nuxt-lightgreen" fill="#00C58E" d="m19.27238,20.20885l-2.02929,-2.02929l-1.13623,-1.13635l-1.2222,-1.2222c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38051,-0.38073 0.38051,-0.99801 -0.00012,-1.37875z"></path>
+              <path class="fill-nuxt-lightgreen" fill="#00C58E" d="m12.33299,13.26956l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38073,-0.38084 0.38073,-0.99801 0,-1.37875z"></path>
+              <path class="fill-nuxt-green" fill="#108775" d="m19.27238,6.33017l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-1.15402,1.15402l-1.13646,1.13646l-2.09724,2.09736c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38051,-0.38073 0.38051,-0.99801 -0.00012,-1.37875l-0.00001,0.00001z"></path>
+              <path class="fill-current" fill="#2f495e" d="m26.21167,13.26956l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37864,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37864,0l4.38784,-4.38784c0.38073,-0.38084 0.38073,-0.99801 0,-1.37875z" fill-rule="nonzero"></path>
+            </g>
+          </svg>
+          <span class="ml-3 text-xl">{{ site.name }}</span>
+        </a>
+        <p class="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">&copy; {{ site.name }} 2021. All Rights Reserved.
+          <a href="https://twitter.com/tipici" rel="noopener noreferrer" class="text-gray-600 ml-1" target="_blank">@tipici</a>
+        </p>
+        <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
+          <a class="text-gray-500">
+            <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
+              <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
+            </svg>
+          </a>
+          <a class="ml-3 text-gray-500">
+            <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
+              <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path>
+            </svg>
+          </a>
+          <a class="ml-3 text-gray-500">
+            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
+              <rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect>
+              <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"></path>
+            </svg>
+          </a>
+          <a class="ml-3 text-gray-500">
+            <svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0" class="w-5 h-5" viewBox="0 0 24 24">
+              <path stroke="none" d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"></path>
+              <circle cx="4" cy="4" r="2" stroke="none"></circle>
+            </svg>
+          </a>
+        </span>
+      </div>
+    </div>
+  </footer>
+
+  <script type="text/javascript" src="/js/jquery.js"></script>
+  <script type="text/javascript" src="/js/main.js"></script>
+
+  {% include analytics.html %}
+</body>
+
+</html>

@@ -2,8 +2,11 @@ _site
 .DS_Store
 .jekyll
 .jekyll-metadata
+.jekyll-cache
 .bundle
 .sass-cache
+.env
+_algolia_api_key
 Gemfile
 Gemfile.lock
 node_modules

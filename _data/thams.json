@@ -1,0 +1,3892 @@
+[
+  {
+    "sku": "e0012",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"2.00x2.80","price":"6,700,000","sell_price":"4,623,000","isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "n0004",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"2,500,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":true},{"size":"1.60x2.30","price":"6,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"9,800,000","sell_price":0,"isStar":false}],
+    "color": "nâu",
+    "type": "1 màu"
+  },
+  {
+    "sku": "c0016",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true},{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"6,700,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"12,000,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "1 màu"
+  },
+  {
+    "sku": "c0018",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "be",
+    "type": "1 màu"
+  },
+  {
+    "sku": "s0030",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"6,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"9,800,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"17,500,000","sell_price":0,"isStar":false}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "s0031",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"6,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"9,800,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"17,500,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "s0032",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":true},{"size":"1.60x2.30","price":"6,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"9,800,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"17,500,000","sell_price":0,"isStar":false}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "s0033",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"6,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"9,800,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"17,500,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "s0042",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"6,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"9,800,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"17,500,000","sell_price":0,"isStar":false}],
+    "color": "nâu",
+    "type": "1 màu"
+  },
+  {
+    "sku": "s0043",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"6,500,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "1 màu"
+  },
+  {
+    "sku": "s0044",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"6,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"9,800,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"17,500,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "1 màu"
+  },
+  {
+    "sku": "s0045",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"6,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"9,800,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"17,500,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "1 màu"
+  },
+  {
+    "sku": "s0046",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":true},{"size":"1.60x2.30","price":"6,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"9,800,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"17,500,000","sell_price":0,"isStar":false}],
+    "color": "nâu",
+    "type": "1 màu"
+  },
+  {
+    "sku": "s0047",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"6,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"9,800,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"17,500,000","sell_price":0,"isStar":false}],
+    "color": "kem",
+    "type": "1 màu"
+  },
+  {
+    "sku": "t0014",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"6,700,000","sell_price":0,"isStar":false}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "t0015",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"6,700,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"12,500,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "t0016",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "t0017",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true},{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"6,700,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "t0026",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"6,700,000","sell_price":0,"isStar":false}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "t0027",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"6,700,000","sell_price":0,"isStar":false}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "t0028",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":false}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "t0029",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":true},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"6,700,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_11133a_lilac_200x300",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"6,200,000","sell_price":0,"isStar":true}],
+    "color": "tím",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_3067a_dlila_200x290",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"7,100,000","sell_price":0,"isStar":true}],
+    "color": "tím",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_6047a_cream_200x290",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"8,000,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_6783c_blue_200x300",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"9,300,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_6783c_green_200x300",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"9,300,000","sell_price":0,"isStar":true}],
+    "color": "xanh lá",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_6895a_antrasit_100x150",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.00x1.50","price":"1,700,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_6916a_lgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_6954a_white_200x300",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"9,100,000","sell_price":0,"isStar":true}],
+    "color": "trắng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_7153b_dblue_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_7153c_dblue_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_7442a_dblue_200x290",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"6,700,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_7444a_dblue_200x290",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"6,700,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_7445a_antrasit_200x290",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"6,700,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_7455a_antrasit_200x290",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"6,700,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_7491a_white_200x290",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"8,500,000","sell_price":0,"isStar":true}],
+    "color": "trắng",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_7542a_lgrey_200x290",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"7,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_7555a_dblue_200x290",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"6,700,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_7559a_dblue_200x290",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"6,700,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_7561a_blue_200x290",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"6,700,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_7568a_lbrown_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_7863b_lgrey_160x226",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.26","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_7904d_purple_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"3,500,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_7945d_red_200x300",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"8,800,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_7961a_red_200x300",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"7,300,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8150a_red_200x300",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"7,300,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8210a_grey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8212b_grey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8245a_lgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,900,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8245b_lblue_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8245b_lgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8256a_lblue_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8261a_cream_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8262a_cream_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8264a_lgreyshrink_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8372a_dblue_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8376a_antrasit_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8380a_antrasit_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8392b_white_160x213",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.13","price":"3,000,000","sell_price":0,"isStar":true}],
+    "color": "trắng",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8395b_lgreyshrink_blue_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8424a_black_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8505a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "trắng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8525a_lgreyshrink_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8568a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8593a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8593c_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8595a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "trắng",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8596a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8598a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8709a_grey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8721a_ecrushrink_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8722a_ecrushrink_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8724a_ecrushrink_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8746a_dgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8747a_lbrown_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,400,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8755a_dgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8756a_smoketblue_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8759a_blue_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8759a_ecrushrink_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8759a_ecrushrink_vizon_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8767a_grey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8768a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "trắng",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8791a_dgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,300,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8803a_dgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,900,000","sell_price":0,"isStar":true}],
+    "color": "nhiều",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8807a_dgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,900,000","sell_price":0,"isStar":true}],
+    "color": "nhiều",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8808a_dgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,900,000","sell_price":0,"isStar":true}],
+    "color": "nhiều",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8809a_dgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,900,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8819d_dgrey_160x213",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.13","price":"3,000,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8819d_white_160x213",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.13","price":"3,000,000","sell_price":0,"isStar":true}],
+    "color": "trắng",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8822b_whiteblue_160x213",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.13","price":"3,000,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8825a_mattegrey_160x213",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.13","price":"3,000,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8852a_mattegrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,500,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8911a_lgrey_120x133",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.33","price":"2,000,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8913a_lgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "nhiều",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8914b_lgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "nhiều",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8915a_lgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "nhiều",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8916a_lgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "nhiều",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8932a_dbeige_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8941b_cream_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8966a_dbeige_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "be",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8967a_cream_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8968a_brown_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8969a_cream_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8971a_brown_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_sisal_60006489_ecru_black_240x340",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.40x3.40","price":"5,900,000","sell_price":0,"isStar":false}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_60006489_sgrey_blue_200x300",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"4,300,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_60006489_sgrey_blue_80x150",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.50","price":"900,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_koza1_snavyecru_200x300",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"4,300,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_sisal_koza1_snavyecru_80x150",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.50","price":"900,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_sisal_koza2_snavyecru_200x300",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"4,300,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_sisal_koza2_snavyecru_80x150",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.50","price":"900,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "p0051",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.80","price":"3,700,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"6,000,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"9,300,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"15,000,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "1 màu"
+  },
+  {
+    "sku": "p0053",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.80","price":"3,700,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"6,000,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"9,300,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"15,000,000","sell_price":0,"isStar":false}],
+    "color": "hồng",
+    "type": "1 màu"
+  },
+  {
+    "sku": "p0054",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.80","price":"3,700,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"6,000,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"9,300,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"15,000,000","sell_price":0,"isStar":false}],
+    "color": "be",
+    "type": "1 màu"
+  },
+  {
+    "sku": "p0055",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.80","price":"3,700,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"6,000,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"9,300,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"15,000,000","sell_price":0,"isStar":false}],
+    "color": "be",
+    "type": "1 màu"
+  },
+  {
+    "sku": "l0001",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,100,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":false}],
+    "color": "be",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "l0001r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "be",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "l0002",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "l0002r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "l0003",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,100,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":false}],
+    "color": "nhiều",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "l0003r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "nhiều",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "l0004",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,100,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "l0005",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,100,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "l0006",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,100,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "l0007",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,100,000","sell_price":0,"isStar":true},{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "l0007r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "l0008",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,100,000","sell_price":0,"isStar":true},{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":false}],
+    "color": "nhiều",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "l0008r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "nhiều",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "l0009",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,100,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "l0009r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "l0010",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,100,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":false}],
+    "color": "be",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "l0010r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "be",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "h0001",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true},{"size":"1.20x1.80","price":"2,700,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "h0003",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"2,700,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "h0004",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true},{"size":"1.20x1.80","price":"2,700,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "h0005",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "h0006",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"2,700,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "h0007",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "h0008",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"2,700,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"7,000,000","sell_price":0,"isStar":false}],
+    "color": "hồng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "h0009",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"2,700,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,600,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "h0010",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x0.80","price":"630,000","sell_price":0,"isStar":false},{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"2,700,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "h0011",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true},{"size":"1.20x1.80","price":"2,700,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "h0012",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true},{"size":"1.20x1.80","price":"2,700,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"7,000,000","sell_price":0,"isStar":false}],
+    "color": "vàng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "h0013",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true},{"size":"1.20x1.80","price":"2,700,000","sell_price":0,"isStar":true}],
+    "color": "vàng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "a0001",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,700,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,600,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "a0002",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,700,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"7,000,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"12,000,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "a0003",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,700,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,600,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "a0004",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,700,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"7,000,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"12,000,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "a0005",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,700,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,600,000","sell_price":0,"isStar":true}],
+    "color": "hồng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "a0006",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,700,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"7,000,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"12,000,000","sell_price":0,"isStar":false}],
+    "color": "hồng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "n0001",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"2,500,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "1 màu"
+  },
+  {
+    "sku": "n0002",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"2,500,000","sell_price":0,"isStar":true},{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "1 màu"
+  },
+  {
+    "sku": "n0003",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":true}],
+    "color": "trắng",
+    "type": "1 màu"
+  },
+  {
+    "sku": "n0005",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"2,500,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "1 màu"
+  },
+  {
+    "sku": "m0001r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"5,800,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "m0003",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"3,200,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"5,300,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"8,100,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"13,000,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "m0004",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"3,200,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "m0005",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"3,200,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"8,100,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"13,000,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "m0005r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"5,800,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "m0006",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"3,200,000","sell_price":0,"isStar":false}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "m0008",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,300,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"8,100,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "m0010",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"3,200,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"5,300,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"8,100,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"13,000,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "m0011",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"3,200,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"5,300,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "m0011r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"5,800,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "m0012",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.60x1.20","price":"1,000,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"3,200,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"5,300,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "m0012r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"5,800,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "m0013",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.40x0.70","price":"450,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"3,200,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "m0015",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"3,200,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "m0016",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.40x0.70","price":"450,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"3,200,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"5,300,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "m0021",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.40x0.70","price":"450,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"3,200,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"5,300,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"8,100,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"13,000,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "1 màu"
+  },
+  {
+    "sku": "m0021r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"5,800,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "1 màu"
+  },
+  {
+    "sku": "m0022",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.40x0.70","price":"450,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"3,200,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"5,300,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"8,100,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"13,000,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "1 màu"
+  },
+  {
+    "sku": "m0022r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"5,800,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "1 màu"
+  },
+  {
+    "sku": "m0023",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.40x0.70","price":"450,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"3,200,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"5,300,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"8,100,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"13,000,000","sell_price":0,"isStar":false}],
+    "color": "nâu",
+    "type": "1 màu"
+  },
+  {
+    "sku": "m0023r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"5,800,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "1 màu"
+  },
+  {
+    "sku": "m0024",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.40x0.70","price":"450,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"5,300,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"8,100,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"13,000,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "1 màu"
+  },
+  {
+    "sku": "m0024r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"5,800,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "1 màu"
+  },
+  {
+    "sku": "m0025",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.40x0.70","price":"450,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"3,200,000","sell_price":0,"isStar":false},{"size":"2.00x2.80","price":"8,100,000","sell_price":0,"isStar":true},{"size":"2.40x3.40","price":"13,000,000","sell_price":0,"isStar":false}],
+    "color": "kem",
+    "type": "1 màu"
+  },
+  {
+    "sku": "g0001",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.60x1.20","price":"1,300,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "1 màu"
+  },
+  {
+    "sku": "g0003",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":true},{"size":"1.60x2.30","price":"6,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"9,800,000","sell_price":0,"isStar":false}],
+    "color": "nâu",
+    "type": "1 màu"
+  },
+  {
+    "sku": "ic0032",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "vàng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "ic0033",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "ic0035",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"9,800,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "ic0037",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "vàng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "ic0038",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":true},{"size":"2.40x3.40","price":"9,800,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "ic0039",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true}],
+    "color": "vàng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "i0001",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.40x3.40","price":"9,800,000","sell_price":0,"isStar":false}],
+    "color": "vàng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "i0008",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,400,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "i0010",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,400,000","sell_price":0,"isStar":true},{"size":"1.20x1.80","price":"2,100,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "i0012",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.40x3.40","price":"9,800,000","sell_price":0,"isStar":false}],
+    "color": "vàng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "i0013",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.60x2.80","price":"7,000,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "i0021",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,100,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":false}],
+    "color": "đỏ",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "i0022",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,100,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"9,800,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "i0022r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "i0023",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":true},{"size":"2.40x3.40","price":"9,800,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "i0025",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,100,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "i0026",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,100,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":true},{"size":"2.40x3.40","price":"9,800,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "i0027",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,100,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":false}],
+    "color": "đỏ",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "i0028",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,100,000","sell_price":0,"isStar":true},{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":false}],
+    "color": "đỏ",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "i0031",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":true},{"size":"2.00x3.60","price":"7,000,000","sell_price":0,"isStar":false}],
+    "color": "đỏ",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "i0034",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,400,000","sell_price":0,"isStar":true},{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "i0035",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,100,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"5,400,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "i0035r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "c0003",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "c0005",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true},{"size":"2.40x3.40","price":"12,000,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "c0005r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"5,000,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "c0008",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.60x1.20","price":"900,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "c0009",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"6,700,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"12,000,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "c0012",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.80","price":"6,700,000","sell_price":0,"isStar":true},{"size":"2.40x3.40","price":"12,000,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "c0014",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "1 màu"
+  },
+  {
+    "sku": "c0015",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "1 màu"
+  },
+  {
+    "sku": "c0017",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "tím",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "c0019",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"6,700,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"12,000,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "c0020",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"6,700,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"12,000,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "c0020r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"5,000,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "c0021",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.60x1.20","price":"900,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"6,700,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"12,000,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "c0021r20",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"5,000,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "c0022",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "s0016",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"6,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"9,800,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"17,500,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "s0016w",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"6,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"9,800,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "s0035",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"2,500,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"3,800,000","sell_price":0,"isStar":false},{"size":"2.00x2.80","price":"9,800,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "t0008",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"2.00x2.80","price":"6,700,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "t0021",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"6,700,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"12,500,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "1 màu"
+  },
+  {
+    "sku": "t0023",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true},{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true},{"size":"2.40x3.40","price":"12,500,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "1 màu"
+  },
+  {
+    "sku": "t0024",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"6,700,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"12,500,000","sell_price":0,"isStar":false}],
+    "color": "be",
+    "type": "1 màu"
+  },
+  {
+    "sku": "t0025",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "1 màu"
+  },
+  {
+    "sku": "e0006",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "e0007",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "e0009",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "e0010",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"6,700,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "e0012",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":false},{"size":"1.20x1.80","price":"2,600,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}]
+  },
+  {
+    "sku": "e0013",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "r0002",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.00x2.00","price":"3,600,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "r0031",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"6,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"10,000,000","sell_price":0,"isStar":false}],
+    "color": "đỏ",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "r0032",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"6,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"10,000,000","sell_price":0,"isStar":false}],
+    "color": "đỏ",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "r0033",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"6,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"10,000,000","sell_price":0,"isStar":false}],
+    "color": "đỏ",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "r0034",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"6,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"10,000,000","sell_price":0,"isStar":false},{"size":"2.40x3.40","price":"15,000,000","sell_price":0,"isStar":false}],
+    "color": "đỏ",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "r0035",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"6,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"10,000,000","sell_price":0,"isStar":false}],
+    "color": "đỏ",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "r0036",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"6,600,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "r0037",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"6,600,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "access_15209460",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.70","price":"2,500,000","sell_price":0,"isStar":false}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "aka_73006962",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.70","price":"4,900,000","sell_price":0,"isStar":false}],
+    "color": "trắng,đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "aka_73007371",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.70","price":"4,900,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "ancient_17202651",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"10,800,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "arte_25108053",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.70","price":"2,200,000","sell_price":0,"isStar":true}],
+    "color": "nhiều",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "arte_25108063",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"6,200,000","sell_price":0,"isStar":false}],
+    "color": "nhiều",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "arte_25109053",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"6,200,000","sell_price":0,"isStar":false}],
+    "color": "nhiều",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "batak_38118232",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"8,200,000","sell_price":0,"isStar":true}],
+    "color": "tím",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "batak_38122052",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.70","price":"2,900,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "belle_52125961",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.70","price":"4,100,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "bess_36202955",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,700,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "cantas_18274093",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,600,000","sell_price":0,"isStar":true}],
+    "color": "nhiều",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "cantas_18465792",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.70","price":"760,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "dico_64507675",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"8,500,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "elle_16202624",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,100,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "elle_4050614",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,100,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "opco_66221699",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.70","price":"4,000,000","sell_price":0,"isStar":false},{"size":"1.40x2.00","price":"5,500,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "opco_66223836",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.40x2.00","price":"5,500,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"7,200,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "1 màu"
+  },
+  {
+    "sku": "opta_32204033",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,800,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "optimist_cosy_54509634",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"12,000,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "opus_54215070",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.70","price":"3,400,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "opus_54215760",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"9,500,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "opus_54219577",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"9,500,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "pan_63211690",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"9,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "pan_63211950",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"9,400,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "relax_40121030",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"7,500,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "relax_40121930",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.70","price":"2,600,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "sofie_13202450",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"7,900,000","sell_price":0,"isStar":true}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "sofie_13206050",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.40x2.00","price":"3,900,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "start_19036061",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.70","price":"2,400,000","sell_price":0,"isStar":false}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "start_19036065",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.70","price":"2,400,000","sell_price":0,"isStar":false},{"size":"1.60x2.30","price":"4,200,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "umbria_56109084",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"12,000,000","sell_price":0,"isStar":true}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "umbria_56214457",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.40x2.00","price":"5,700,000","sell_price":0,"isStar":false}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "umri_56202268",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.70","price":"4,200,000","sell_price":0,"isStar":false}],
+    "color": "cam",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "umri_56202367",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.60x2.30","price":"7,600,000","sell_price":0,"isStar":true}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "umri_56203068",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.20x1.70","price":"4,200,000","sell_price":0,"isStar":false}],
+    "color": "cam",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "umri_56204067",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.40x2.00","price":"5,700,000","sell_price":0,"isStar":false}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "umri_56205357",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.60x2.30","price":"7,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.90","price":"12,000,000","sell_price":0,"isStar":false}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "umri_56205657",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.40x2.00","price":"5,700,000","sell_price":0,"isStar":true},{"size":"1.60x2.30","price":"7,600,000","sell_price":0,"isStar":true}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "umri_56207557",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.60x2.30","price":"7,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.90","price":"12,000,000","sell_price":0,"isStar":true}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "umri_56213657",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.60x2.30","price":"7,600,000","sell_price":0,"isStar":true}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "umri_56214457",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.40x2.00","price":"5,700,000","sell_price":0,"isStar":false}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "umri_56217067",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"2.00x2.90","price":"12,000,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "umri_56219067",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.60x2.30","price":"7,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.90","price":"12,000,000","sell_price":0,"isStar":false}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "umri_56221657",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.60x2.30","price":"7,600,000","sell_price":0,"isStar":true}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "umri_56222457",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.60x2.30","price":"7,600,000","sell_price":0,"isStar":true},{"size":"2.00x2.90","price":"12,000,000","sell_price":0,"isStar":false}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "visiona_4311100",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,800,000","sell_price":0,"isStar":false}],
+    "color": "đỏ",
+    "type": "1 màu"
+  },
+  {
+    "sku": "f0002",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"2.40x3.40","price":"13,000,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "antik_silk2_p7142_chocolate_gold",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"8,700,000","sell_price":0,"isStar":true}],
+    "color": "vàng",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "chenille_s1793_light_rose_light_rose",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"6,500,000","sell_price":0,"isStar":true}],
+    "color": "hồng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "chenille_s1796_vanilla_vanilla",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"6,500,000","sell_price":0,"isStar":false}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "d0030_160x230",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.60x2.30","price":"4,600,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "d0031_160x230",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"1.60x2.30","price":"4,600,000","sell_price":0,"isStar":true}],
+    "color": "be",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "formax_f0436_lgray_dgreen",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "formax_f1659_black_black",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "galen_f0016_dlila_dlila",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"6,100,000","sell_price":0,"isStar":true}],
+    "color": "tím",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "galen_f1758_lgray_dlila",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"6,100,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "galen_f8061_dlila_dlila",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"6,100,000","sell_price":0,"isStar":true}],
+    "color": "tím",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "galen_f8061_lred_lred",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"6,100,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "galen_f8061_turquoise_turquoise",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"6,100,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "kozan_k1637_lgray_lgray",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "nhiều",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "kozan_k1637_lpink_lpink",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "hồng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "lantana_f0013_dlila_dlila",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "tím",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "lantana_f0014_dlila_dlila",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "tím",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "lantana_f1202_terra_terra",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_5766y_cream_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"3,600,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_6202f_cream_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"3,600,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_6721c_cream_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"3,600,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_6725c_antrasit_shrink_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,300,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_6725c_lblue_shrink_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,300,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_6725d_cream_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"3,600,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_6730c_lblue_shrink_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,300,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_6859b_grey_shrink_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,900,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_7153a_dblue_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_7153a_smokedblue_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,300,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_7220c_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "be",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_7568a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "trắng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_7568b_white_160x213",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.13","price":"3,000,000","sell_price":0,"isStar":true}],
+    "color": "trắng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_7575a_lbrown_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_7575a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8072a_grey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8196b_lgreyshring_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"3,500,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8207a_cream_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8263a_lgrey_shrink_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8263b_antrasitshrink_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,300,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8344a_dblue_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8367a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "trắng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8372a_antrasit_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8374a_mlnbeige_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "be",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8378a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "trắng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8381a_antrasit_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8384a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "trắng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8385a_antrasit_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8386a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8390a_lgrey_160x220",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.20","price":"3,100,000","sell_price":0,"isStar":true}],
+    "color": "nhiều",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8391a_turkuaz_160x220",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.20","price":"3,100,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8396a_lgreyshrink_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,300,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8398a_antrasitshrink_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,300,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8399a_antrasit_shrink_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,300,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8424a_black_160x220",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.20","price":"3,100,000","sell_price":0,"isStar":false}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8424a_lbrown_160x220",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.20","price":"3,100,000","sell_price":0,"isStar":true}],
+    "color": "trắng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8424b_white_160x213",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.13","price":"3,000,000","sell_price":0,"isStar":true}],
+    "color": "trắng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8526a_lgrey_shrink_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8529a_lgreyshrink_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8564b_ecrushrink_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8567a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8572a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8577a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8578a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8583a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8585a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8586a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8586b_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "trắng",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8593d_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8594b_whitegrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8616a_blue_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8618a_lblue_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"3,500,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8621a_brown_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,800,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8621a_navy_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,800,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8630a_ecrushrink_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8683a_lgreen_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,500,000","sell_price":0,"isStar":true}],
+    "color": "xanh lá",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8683a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,500,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8683b_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,500,000","sell_price":0,"isStar":true}],
+    "color": "trắng",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8684a_mattegrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,500,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8684a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,500,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8689a_creamshrink_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,800,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8689a_creamshrink_brown_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,800,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8722a_ecrushrink_navy_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8723a_ecrushrink_navy_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8743b_lgreyshrink_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8744a_ecrushrink_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8745a_lgrey_shrink_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,000,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8746a_black_160x195",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x1.95","price":"3,400,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8747a_black_160x190",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x1.90","price":"2,700,000","sell_price":0,"isStar":true}],
+    "color": "cam",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8747a_black_160x195",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x1.95","price":"2,800,000","sell_price":0,"isStar":true}],
+    "color": "cam",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8748a_turkuaz_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "xanh lá",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8749a_smoketblue_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "cam",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8756a_dgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8757a_lbrown_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,300,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8770b_lgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"5,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8772a_cream_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"3,600,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8773a_cream_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"3,600,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8773b_cream_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"3,600,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8774a_cream_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"3,600,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8777a_dgrey_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"3,600,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8778a_cream_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"3,600,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8789a_dgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,900,000","sell_price":0,"isStar":true}],
+    "color": "nhiều",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8795a_dgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,900,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8798a_dgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,900,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8799a_dgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,900,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8800a_dgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,900,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8800b_dgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,900,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8805a_dgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,900,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8806a_dgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,900,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8829a_smoketblue_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,400,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8830a_white_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,400,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8833a_lblue_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8833a_lgrey_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8833b_cream_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8837a_lblue_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8838a_blue_shrink_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"3,900,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8841a_bonevis_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"9,400,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8878a_cream_shrink_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,800,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8879a_beigeshrink_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,800,000","sell_price":0,"isStar":true}],
+    "color": "be",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8880a_creamshrink_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"4,800,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8936a_cream_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8953a_cream_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8956a_lbeige_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "nhiều",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8957a_cream_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8958a_lbeige_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "be",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8959a_cream_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_8970a_cream_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_8979a_papatya_aikme_160x195",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x1.95","price":"3,800,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_sisal_00001a_crcr_navy_185x220",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.85x2.20","price":"2,700,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_00001a_cream_cream_120x120",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.20","price":"1,000,000","sell_price":0,"isStar":true}],
+    "color": "vàng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_00001a_cream_cream_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"2,700,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_00001a_cream_cream_215x215",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.15x2.15","price":"2,900,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_00001a_cream_cream_240x240",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.40x2.40","price":"4,200,000","sell_price":0,"isStar":false}],
+    "color": "cam",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_00001a_cream_cream_80x120",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.20","price":"700,000","sell_price":0,"isStar":false}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_00001a_cream_cream_80x150",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.50","price":"900,000","sell_price":0,"isStar":false}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_00001a_creamcream_black_200x200",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"2,900,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_00001a_creamcream_red_200x200",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"2,900,000","sell_price":0,"isStar":false}],
+    "color": "đỏ",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_01915a_beige_black_200x200",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"2,900,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_01918a_anthracite_beige_265x365",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.65x3.65","price":"7,000,000","sell_price":0,"isStar":false}],
+    "color": "be",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_20596a_saqua_sgrey_160x240",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.40","price":"2,700,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_20596a_sblack_sbeige_240x345",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.40x3.45","price":"6,000,000","sell_price":0,"isStar":false}],
+    "color": "be",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_20654a_terra_beige_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"2,700,000","sell_price":0,"isStar":true}],
+    "color": "cam",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_20716b_aqua_beige_80x150",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.50","price":"900,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_sisal_20716b_terra_beige_80x150",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.50","price":"900,000","sell_price":0,"isStar":false}],
+    "color": "cam",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_sisal_20892a_yellow_ecru_200x200",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"2,900,000","sell_price":0,"isStar":true}],
+    "color": "vàng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_20892a_yellow_sgrey_200x200",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"2,900,000","sell_price":0,"isStar":true}],
+    "color": "vàng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_21807a_yellow_ecru_200x200",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.00","price":"2,900,000","sell_price":0,"isStar":true}],
+    "color": "vàng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_21807a_yellow_sgrey_200x226",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.26","price":"2,900,000","sell_price":0,"isStar":true}],
+    "color": "vàng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_22405a_ecru_spea_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"2,500,000","sell_price":0,"isStar":true}],
+    "color": "nhiều",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_22406a_ecru_sblack_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"2,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_22414a_ecru_sblack_150x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.50x2.30","price":"2,500,000","sell_price":0,"isStar":true}],
+    "color": "vàng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_60006489_ecru_black_120x170",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.70","price":"1,500,000","sell_price":0,"isStar":false}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_60006489_ecru_black_200x300",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"4,300,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_60006489_ecru_black_80x150",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.50","price":"900,000","sell_price":0,"isStar":false}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_60006489_sgrey_blue_120x170",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.70","price":"1,500,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_60006489_sgrey_blue_160x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"2,700,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_60006489_sgrey_blue_240x340",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.40x3.40","price":"5,900,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_60006489_sgrey_blue_300x400",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"3.00x4.00","price":"8,700,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_60006490_ecru_black_80x240",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x2.40","price":"1,400,000","sell_price":0,"isStar":false}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_60006490_sgrey_blue_80x240",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x2.40","price":"1,400,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_60006491_ecru_black_120x120",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.20","price":"1,000,000","sell_price":0,"isStar":false}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_60006491_sgrey_blue_120x120",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.20","price":"1,000,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_b1938d_anthracite_beige_120x170",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.70","price":"1,500,000","sell_price":0,"isStar":false}],
+    "color": "be",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_b3045a_abeige_antracite_145x230",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.45x2.30","price":"2,500,000","sell_price":0,"isStar":true}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_b3046a_abeige_antracite_145x250",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.45x2.50","price":"2,500,000","sell_price":0,"isStar":false}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_b3071a_abeige_antracite_145x250",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.45x2.50","price":"2,500,000","sell_price":0,"isStar":true}],
+    "color": "be",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_b3084a_abeige_antracite_145x250",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.45x2.50","price":"2,500,000","sell_price":0,"isStar":true}],
+    "color": "be",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "le_sisal_cy6062_beige_black_235x305",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.35x3.05","price":"5,100,000","sell_price":0,"isStar":false}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_cy6634_green_natural_120x170",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.70","price":"1,500,000","sell_price":0,"isStar":false}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_cy8533_sgrey_black_80x150",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.50","price":"900,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "le_sisal_padua_redbeige_120x155",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.55","price":"1,500,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_00837a_cream",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"7,200,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_09346a_grey_black",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_100_noir",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.00","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "trắng,đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_2000_gold",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "vàng",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_2001_blue",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.40x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_3001_siyah_pembe",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_3002_siyah_gri",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_3002_siyah_pembe",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_3003_siyah_pembe",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_3004_siyah_gri",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_3004_siyah_pembe",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_3005_siyah_mavi",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_3006_siyah_pembe",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_3450b_es_cream",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_8704_vc_cream",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_8707_vc_cream",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_8737_cream_blue",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_8742_cream_pink",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "hồng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_8773_siyah_bej",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_8773_siyah_gri",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_8773_siyah_mavi",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_8773_siyah_pembe",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_8774_siyah_bej",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_8774_siyah_gri",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_8774_siyah_mavi",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_8774_siyah_pembe",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_8784_siyah_bej",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_8784_siyah_gri",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_8784_siyah_mavi",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_8786_siyah_bej",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_8786_siyah_gri",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_8786_siyah_mavi",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_8786_siyah_pembe",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_8787_siyah_bej",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_8787_siyah_gri",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_8787_siyah_mavi",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_8787_siyah_pembe",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_9359_pink",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.80","price":"7,200,000","sell_price":0,"isStar":true}],
+    "color": "hồng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_9360_bordo",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.80","price":"7,200,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_9360_brown_blue",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.80","price":"7,200,000","sell_price":0,"isStar":false}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_9360_brown",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.80","price":"7,200,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_9360_vizon",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.80","price":"7,200,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_9361_brown_blue",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.80","price":"7,200,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_9361_brown",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.80","price":"7,200,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_9361_pink",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.80","price":"7,200,000","sell_price":0,"isStar":true}],
+    "color": "hồng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_9362_brown",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.80","price":"7,200,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_9362_grey_black",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.80","price":"7,200,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_9362_pink",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.80","price":"7,200,000","sell_price":0,"isStar":true}],
+    "color": "hồng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_9362_vizon",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.80","price":"7,200,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_9587a_q1_lgrey",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_9588a_es_lgrey",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_9589a_q1_lgrey",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_9592a_es_lgrey",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_9600a_s1_lgrey",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":false}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_9652a_hy_bone",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_9655a_mt_navy",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_9656a_mt_navy",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_9657a_mt_navy",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_9666a_hd_lbeige",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_as891a_blue_grey",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_as892a_rose_vizon",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_d0938a_green",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"7,200,000","sell_price":0,"isStar":true}],
+    "color": "xanh lá",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_d0978a_grey",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_e1055a_cream_camel",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_e1064a_white_light_red",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_e1079a_white_black",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_e1081a_white_light_red",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_e1087a_cream",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_np135a_beige_vizon",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x2.90","price":"7,200,000","sell_price":0,"isStar":true}],
+    "color": "be",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_np183a_light_pink",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "hồng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_r1014y_cream",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_r1483a_black",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_r1484a_black",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_r1485a_black",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_r1486a_black",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "đen",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_r1564a_lila",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "hồng",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_r1576a_cream_grey",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_r1785a_grey_dark_blue",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "limited_edition_rc123a_grey_black",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "xám",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "limited_edition_z1042b_ad_bej",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.60x2.30","price":"4,500,000","sell_price":0,"isStar":true}],
+    "color": "be",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "luna_17054_black_black",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"6,500,000","sell_price":0,"isStar":true}],
+    "color": "vàng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "sahra_07209_vlgreen_vlgreen",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"6,500,000","sell_price":0,"isStar":true}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "sahra_07214_vanilla_vlgreen",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"6,500,000","sell_price":0,"isStar":true}],
+    "color": "xanh lá",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "sahra_07257_vanilla_pink",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"6,500,000","sell_price":0,"isStar":true}],
+    "color": "hồng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "sahra_07257_vanilla_steelblue",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"6,500,000","sell_price":0,"isStar":true}],
+    "color": "xanh dương",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "silk_antic_shirring_p7142_beige_gold",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"10,800,000","sell_price":0,"isStar":true}],
+    "color": "nhiều",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "silk_antic_shirring_p7250_chocolate_chocolate",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"10,800,000","sell_price":0,"isStar":true}],
+    "color": "nâu",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "silk_antik_p7142_chocolate_chocolate",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"8,700,000","sell_price":0,"isStar":true}],
+    "color": "vàng",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "sude_z9119_vanilla_vanilla",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"6,500,000","sell_price":0,"isStar":true}],
+    "color": "kem",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "yekta_ag81a_dred_black",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"2.00x3.00","price":"9,400,000","sell_price":0,"isStar":true}],
+    "color": "đỏ",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "d0011",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true},{"size":"2.00x2.80","price":"6,200,000","sell_price":0,"isStar":true}],
+    "color": "tím",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "d0012",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true}],
+    "color": "tím",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "d0013",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.80x1.80","price":"1,800,000","sell_price":0,"isStar":true},{"size":"1.60x2.30","price":"4,100,000","sell_price":0,"isStar":false},{"size":"2.00x2.80","price":"6,200,000","sell_price":0,"isStar":true}],
+    "color": "tím",
+    "type": "cổ điển"
+  },
+  {
+    "sku": "tham_40_60_90k",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"0.40x0.60","price":"120,000","sell_price":0,"isStar":false}],
+    "color": "nhiều",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "k0001",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.70","price":"2,000,000","sell_price":0,"isStar":false},{"size":"1.40x2.00","price":"2,700,000","sell_price":0,"isStar":true}],
+    "color": "xanh lá",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "k0003",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.70","price":"2,000,000","sell_price":0,"isStar":true}],
+    "color": "hồng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "k0004",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.20x1.70","price":"2,000,000","sell_price":0,"isStar":false},{"size":"1.40x2.00","price":"2,700,000","sell_price":0,"isStar":false}],
+    "color": "hồng",
+    "type": "hiện đại"
+  },
+  {
+    "sku": "tc0001",
+    "category": "Thảm lông xù",
+    "sizes": [{"size":"0.80x1.80","price":"1,700,000","sell_price":0,"isStar":false}],
+    "color": "đỏ",
+    "type": "1 màu"
+  },
+  {
+    "sku": "b0005",
+    "category": "Thảm sợi ngắn",
+    "sizes": [{"size":"1.25x1.80","price":"3,600,000","sell_price":0,"isStar":true},{"size":"2.50x3.40","price":"18,000,000","sell_price":0,"isStar":false}],
+    "color": "kem",
+    "type": "cổ điển"
+  }
+]

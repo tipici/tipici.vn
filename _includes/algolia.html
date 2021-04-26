@@ -1,0 +1,120 @@
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch-theme-algolia.min.css">
+<base href="{{ site.baseurl }}">
+
+<script>
+const search = instantsearch({
+  appId: '{{ site.algolia.application_id }}',
+  apiKey: '{{ site.algolia.search_only_api_key }}',
+  indexName: '{{ site.algolia.index_name }}'
+});
+
+const hitTemplate = function(hit) {
+  let url = `{{ site.baseurl }}${hit.id}#${hit.category}`;
+
+  // const category = hit._highlightResult.category.map((e) => e.value).join(',');
+  const category = hit._highlightResult.category.value;
+
+  const sizes = hit.sizes.map((e) => `${e.isStar ? '*' : ''}${e.size}m ${e.price}đ${e.sell_price > 0 ? '' + e.sell_price + 'đ': ''}`).join('<br>');
+  
+
+  return `
+    <div class="col-sm-3 wow fadeIn" data-wow-duration="1000ms" data-wow-delay="300ms">
+      <div class="portfolio-wrapper">   
+        <div class="portfolio-single">
+          <div class="portfolio-thumb">
+            <a href="http://tham.cualuoidanang.com/sanphamchitiet.php?sp=${hit.sku}&khuvuc[]=sg&khuvuc[]=dn">
+              <img src="http://tham.cualuoidanang.com/galleries/${hit.sku}.jpg" class="img-responsive" alt="${category}">
+            </a>
+          </div>
+        </div>
+        <div class="item-info">
+          <p class="text-primary1 price1">${sizes}</p>
+          ${category}/${hit.color}/${hit.type}
+        </div>
+        <div class="item-sku">
+          ${hit.sku}
+        </div>
+      </div>
+    </div>
+  `;
+
+  // return `
+  //   <div class="post-item">
+  //     <h2><a class="post-link" href="${url}">${title}</a></h2>
+  //     <div class="post-snippet">${content}</div>
+  //   </div>
+  // `;
+}
+
+
+search.addWidget(
+  instantsearch.widgets.searchBox({
+    container: '#search-searchbar',
+    placeholder: 'Tìm thảm...',
+    poweredBy: false
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.hits({
+    container: '#search-hits',
+    templates: {
+      item: hitTemplate
+    }
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.menu({
+    container: '#search-category',
+    attributeName: 'category',
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.pagination({
+    container: '#search-pagination',
+  })
+);
+
+search.start();
+</script>
+
+<style>
+.ais-search-box {
+  max-width: 100%;
+  margin-bottom: 15px;
+}
+.post-item {
+  margin-bottom: 30px;
+}
+.post-link .ais-Highlight {
+  color: #111;
+  font-style: normal;
+  text-decoration: underline;
+}
+.post-breadcrumbs {
+  color: #424242;
+  display: block;
+}
+.post-breadcrumb {
+  font-size: 18px;
+  color: #424242;
+}
+.post-breadcrumb .ais-Highlight {
+  font-weight: bold;
+  font-style: normal;
+}
+.post-snippet .ais-Highlight {
+  color: #2a7ae2;
+  font-style: normal;
+  font-weight: bold;
+}
+.post-snippet img {
+  display: none;
+}
+</style>
+
