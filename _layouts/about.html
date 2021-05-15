@@ -177,15 +177,14 @@ layout: default
   </div>
 </section>
 
-
-  
-  <div>
-	<div class="bg-light-surface dark:bg-dark-surface rounded transition-colors duration-300 ease-linear">
+<section class="bg-light-surface dark:bg-dark-surface rounded transition-colors duration-300 ease-linear">
+	<div class="container px-5 py-24 mx-auto flex flex-wrap">
 	  <h2 class="text-2xl xl:text-3xl text-center text-light-onSurfacePrimary dark:text-dark-onSurfacePrimary font-medium leading-normal mb-6 pt-4">
 		Tipici Company
 	  </h2>
 	  <div class="flex flex-wrap -mx-2 md:-mx-4">
-			{% for member in site.members %}
+      {% assign sortedMembers = site.members | sort: 'title' %}
+			{% for member in sortedMembers %}
         <div class="w-full md:w-1/2 lg:w-1/4 p-4">
           <div class="rounded p-6">
             <div class="text-center pt-4 text-light-onSurfacePrimary dark:text-dark-onSurfacePrimary transition-colors duration-300 ease-linear">
@@ -207,4 +206,4 @@ layout: default
       {% endfor %}
 	  </div>
 	</div>
-  </div>
+</section>

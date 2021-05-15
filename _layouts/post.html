@@ -6,40 +6,41 @@ layout: default
 </script>
 
 <section class="text-gray-600 body-font" id="blog-details">
-    <div class="container px-5 py-24 mx-auto flex flex-wrap">
+  <div class="container px-5 py-24 mx-auto flex flex-wrap">
+    <div class="w-3/4">
       <div class="row">
-          <div class="col-md-9 col-sm-7">
-              <div class="row">
-                   <div class="col-md-12 col-sm-12">
-                      <div class="single-blog blog-details">
-                          <div class="post-thumb">
-                              <img src="{{ page.image }}" class="img-responsive" alt="{{ page.title }}">
-                              <div class="post-overlay">
-                                  <span class="uppercase"><a href="#">{{ page.date | date: "%e <br><small>T%l</small>" }}</a></span>
-                              </div>
-                          </div>
-                          <div class="post-content overflow">
-                              <h2 class="post-title bold">{{ page.title }}</h2>
-                              <h3 class="post-author"><a href="#">{{ page.priceText }}</a></h3>
-                              {{ content }}
-                              <div class="post-bottom overflow">
-                                  <ul class="nav navbar-nav post-nav">
-                                      {% for category in page.categories %}
-                                      <li><a href="#"><i class="fa fa-tag"></i>{{ category }}</a></li>
-                                      {% endfor %}
-                                      <li><a href="#"><i class="fa fa-heart"></i><span id="ordertimes">1230</span> lần đặt hàng</a></li>
-                                  </ul>
-                              </div>                             
-                              {% include disqus.html %}               
-                          
-                          </div>
-                      </div>
-                  </div>
+        <div class="col-md-12 col-sm-12">
+          <div class="single-blog blog-details">
+            <div class="post-thumb">
+              <img src="{{ page.image }}" class="w-full" alt="{{ page.title }}">
+              <div class="h-full flex items-start mt-6">
+                <div class="w-12 flex-shrink-0 flex flex-col text-center leading-none">
+                  <span class="text-gray-500 pb-2 mb-2 border-b-2 border-gray-200">{{ page.date | date: "%e" }}</span>
+                  <span class="font-medium text-lg text-gray-800 title-font leading-none">{{ page.date | date: "T%l" }}</span>
+                </div>
+                <div class="flex-grow pl-6">
+                  <h1 class="title-font text-xl font-medium text-gray-900 mb-3">{{ page.title }}</h1>
+                  <p class="leading-relaxed mb-5">{{ page.priceText }}</p>
+                </div>
               </div>
+            </div>
+            <div class="post-content overflow">
+              {{ content }}
+              <div class="post-bottom overflow">
+                <ul class="nav navbar-nav post-nav">
+                  {% for category in page.categories %}
+                  <li><a href="#"><i class="fa fa-tag"></i>{{ category }}</a></li>
+                  {% endfor %}
+                </ul>
+              </div>
+              {% include disqus.html %}
+
+            </div>
           </div>
-          {% include sidebar.html %}   
+        </div>
       </div>
+    </div>
+    {% include sidebar.html %}
   </div>
 </section>
 <!--/#blog-->
-

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ra mắt sản phẩm mới WowOrder
-categories: [Projects]
+categories: [Blog]
 image: /images/blog/woworder.png
 thumb: /images/blog/woworder.png
 priceText: từ 30.000.000₫
