@@ -4,11 +4,11 @@
 <head>
   <style>
     body {
-      background-image: url('images/home/tipici_wall.svg');
+      background-image: url('../images/home/tipici_wall.svg');
       background-size: 100%;
     }
     </style>
-  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} - {{ site.description }}</title>
 
   {% include meta.html %}
 
@@ -54,10 +54,31 @@
   })(window,document,'script','dataLayer','GTM-PHMD6Q8');</script>
   <!-- End Google Tag Manager -->
   
+  <!-- Facebook messenger -->
+  <div id="fb-root"></div>
+  <script>
+      window.fbAsyncInit = function () {
+          FB.init({
+              xfbml: true,
+              version: 'v3.2'
+          });
+      };
+
+      (function (d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+          fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+      <!-- End Facebook messenger -->
 </head>
 
 <body>
   <header class="text-gray-600 body-font">
+    <!-- Facebook messenger -->
+    <div class="fb-customerchat" attribution=setup_tool page_id="125042826344443">
+     <!-- End Facebook messenger --> 
     <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
       <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0" href="/">
         <svg width="33" height="28" xmlns="http://www.w3.org/2000/svg" fill="none" class="">
