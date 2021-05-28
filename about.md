@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Us
+title: Giới Thiệu
 permalink: /about/
 ---
 
