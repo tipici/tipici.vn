@@ -2,7 +2,7 @@
   "@context": "https://schema.org/",
   "@type": "Product",
   "name": "{{ page.title }}",
-  "image": ["https://cualuoidanang.com{{ page.image }}"],
+  "image": ["https://tipici.vn{{ page.image }}"],
   "description": "{{ page.excerpt | strip_html }}",
   "sku": "{{ page.sku }}",
   "mpn": "{{ page.sku }}",
@@ -29,7 +29,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "url": "https://cualuoidanang.com/{{ page.url }}",
+    "url": "https://tipici.vn/{{ page.url }}",
     "priceCurrency": "VND",
     "price": "{{ page.price }}",
     "priceValidUntil": "2020-11-25",
