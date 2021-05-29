@@ -74,7 +74,7 @@ jQuery(function($) {'use strict';
 		var _phone = encodeURIComponent($('#phone').val());
 		var _message = $('#message').val();
 		$.ajax({
-			url: 'https://docs.google.com/forms/d/e/1FAIpQLSfELJFTHpFYhkOUW9EMTbWlml_r8z7whX9TzTKR8VDEQI6NWQ/formResponse', //$(this).attr('action'),
+			url: 'https://docs.google.com/forms/d/e/1FAIpQLSdVuhzQahu-mdUW23wOHycMhJ8ypi6mVc_6UBNYgmLLzfOCdA/formResponse', //$(this).attr('action'),
 			data: {"entry.1557289730": _name, 
 				"entry.1860932712": _phone, 
 				"entry.1971688140": _message, 

@@ -7,7 +7,7 @@
       background-image: url('../images/home/tipici_wall.svg');
       background-size: 100%;
     }
-    </style>
+  </style>
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} - {{ site.description }}</title>
 
   {% include meta.html %}
@@ -18,7 +18,8 @@
 
   <link rel="stylesheet" type="text/css" href="/css/tailwind.min.css" />
   <link rel="stylesheet" type="text/css" href="/style.css" />
-  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
+    href="{{ site.baseurl }}/feed.xml" />
 
   <link rel="shortcut icon" href="/images/ico/favicon.ico">
   <link rel="icon" type="image/png" href="/images/ico/apple-touch-icon.png">
@@ -31,15 +32,15 @@
     {"@context":"https://schema.org","@graph":[{"@type":["Organization","Place","LocalBusiness"],"@id":"https://tipici.vn/#localbusiness","name":"Tipici.vn","url":"https://tipici.vn/","sameAs":["https://www.facebook.com/tipicijsc/"],"logo":{"@type":"ImageObject","@id":"https://tipici.vn/#logo","url":"https://tipici.vn/images/logo.png","caption":"Tipici.vn"},"image":"https://tipici.vn/images/logo.png","address":{"@type":"PostalAddress","streetAddress":"293 Bùi Thiện Ngộ, Phường Hòa Xuân, Cẩm Lệ","addressLocality":"Cẩm Lệ","addressRegion":"Đà Nẵng","postalCode":"550000","addressCountry":"VN"},"priceRange":"200.000₫ - 1.650.000₫","email":"trangtrinhasinhtai@gmail.com","telephone":"0976 88 00 20"},{"@type":"WebSite","@id":"https://tipici.vn/#website","url":"https://tipici.vn/","name":"Chuyên website, app, iot","publisher":{"@id":"https://tipici.vn/#publisher"}},{"@type":"ProfilePage","@id":"https://tipici.vn/#profilepage","url":"https://tipici.vn/","inLanguage":"vi","name":"Chuyên website, app, iot,...","isPartOf":{"@id":"https://tipici.vn/#ispartof"}},{"@type":["Person"],"@id":"https://tipici.vn/#author","name":"Kinh doanh","image":{"@type":"ImageObject","@id":"https://tipici.vn/#authorlogo","url":"https://tipici.vn/","caption":"Kinh doanh"},"sameAs":[]},{"@type":"Place","@id":"https://tipici.vn/#local-place","address":{"@type":"PostalAddress","@id":"https://tipici.vn/#local-place-address","streetAddress":"293 Bùi Thiện Ngộ, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","addressLocality":"Đà Nẵng","postalCode":"550000","addressRegion":"Đà Nẵng","addressCountry":""},"geo":{"@type":"GeoCoordinates","latitude":"15.9948519","longitude":"108.1983046"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],"opens":"07:30","closes":"17:30"}],"telephone":"0976 88 00 20"}]}
   </script>
   {% if page.title %}
-    {% if page.categories %}
+  {% if page.categories %}
   <script type="application/ld+json">
     {"@context":"https://schema.org/","@type":"BreadcrumbList","@id":"https://tipici.vn/#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"{{ page.url }}#category","url":"https://tipici.vn{{ page.url }}","name":"{{ page.categories | join: ', ' }}"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"{{ page.url }}","url":"https://tipici.vn{{ page.url }}","name":"{{ page.title }}"}}]}
   </script>
-    {% else %}
+  {% else %}
   <script type="application/ld+json">
     {"@context":"https://schema.org/","@type":"BreadcrumbList","@id":"https://tipici.vn/#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"{{ page.url }}","url":"https://tipici.vn{{ page.url }}","name":"{{ page.title }}"}}]}
   </script>
-    {% endif %}
+  {% endif %}
   {% else %}
   <script type="application/ld+json">
     {"@context": "https://schema.org/","@type":"BreadcrumbList","@id":"https://tipici.vn/#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://tipici.vn/#breadcrumlist1","url":"https://tipici.vn/","name":"Chuyên website, app, iot"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://tipici.vn/man-rem/#breadcrumlist2","url":"https://tipici.vn/man-rem","name":"Màn rèm"}}]}
@@ -47,46 +48,57 @@
   {% endif %}
 
   <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-PHMD6Q8');</script>
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-PHMD6Q8');</script>
   <!-- End Google Tag Manager -->
-  
+
   <!-- Facebook messenger -->
   <div id="fb-root"></div>
   <script>
-      window.fbAsyncInit = function () {
-          FB.init({
-              xfbml: true,
-              version: 'v3.2'
-          });
-      };
+    window.fbAsyncInit = function () {
+      FB.init({
+        xfbml: true,
+        version: 'v3.2'
+      });
+    };
 
-      (function (d, s, id) {
-          var js, fjs = d.getElementsByTagName(s)[0];
-          if (d.getElementById(id)) return;
-          js = d.createElement(s); js.id = id;
-          js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-          fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));</script>
-      <!-- End Facebook messenger -->
+    (function (d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+  <!-- End Facebook messenger -->
 </head>
 
 <body>
   <header class="text-gray-600 body-font">
     <!-- Facebook messenger -->
     <div class="fb-customerchat" attribution=setup_tool page_id="125042826344443"></div>
-     <!-- End Facebook messenger --> 
+    <!-- End Facebook messenger -->
     <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
       <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0" href="/">
         <svg width="33" height="28" xmlns="http://www.w3.org/2000/svg" fill="none" class="">
           <g fill="none" fill-rule="evenodd">
-            <path class="fill-nuxt-lightgreen" fill="#00C58E" d="m19.27238,20.20885l-2.02929,-2.02929l-1.13623,-1.13635l-1.2222,-1.2222c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38051,-0.38073 0.38051,-0.99801 -0.00012,-1.37875z"></path>
-            <path class="fill-nuxt-lightgreen" fill="#00C58E" d="m12.33299,13.26956l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38073,-0.38084 0.38073,-0.99801 0,-1.37875z"></path>
-            <path class="fill-nuxt-green" fill="#108775" d="m19.27238,6.33017l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-1.15402,1.15402l-1.13646,1.13646l-2.09724,2.09736c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38051,-0.38073 0.38051,-0.99801 -0.00012,-1.37875l-0.00001,0.00001z"></path>
-            <path class="fill-current" fill="#2f495e" d="m26.21167,13.26956l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37864,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37864,0l4.38784,-4.38784c0.38073,-0.38084 0.38073,-0.99801 0,-1.37875z" fill-rule="nonzero"></path>
+            <path class="fill-nuxt-lightgreen" fill="#00C58E"
+              d="m19.27238,20.20885l-2.02929,-2.02929l-1.13623,-1.13635l-1.2222,-1.2222c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38051,-0.38073 0.38051,-0.99801 -0.00012,-1.37875z">
+            </path>
+            <path class="fill-nuxt-lightgreen" fill="#00C58E"
+              d="m12.33299,13.26956l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38073,-0.38084 0.38073,-0.99801 0,-1.37875z">
+            </path>
+            <path class="fill-nuxt-green" fill="#108775"
+              d="m19.27238,6.33017l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-1.15402,1.15402l-1.13646,1.13646l-2.09724,2.09736c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38051,-0.38073 0.38051,-0.99801 -0.00012,-1.37875l-0.00001,0.00001z">
+            </path>
+            <path class="fill-current" fill="#2f495e"
+              d="m26.21167,13.26956l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37864,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37864,0l4.38784,-4.38784c0.38073,-0.38084 0.38073,-0.99801 0,-1.37875z"
+              fill-rule="nonzero"></path>
           </g>
         </svg>
         <span class="text-xl text-green-700">{{ site.name }}</span>
@@ -97,8 +109,11 @@
         <a class="mr-5 hover:text-gray-900" href="/blog">Blog</a>
       </nav>
       <a href="tel:{{ site.phone }}">
-        <button class="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">{{ site.phone }}
-          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-1" viewBox="0 0 24 24">
+        <button
+          class="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">{{
+          site.phone }}
+          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            class="w-4 h-4 ml-1" viewBox="0 0 24 24">
             <path d="M5 12h14M12 5l7 7-7 7"></path>
           </svg>
         </button>
@@ -173,19 +188,30 @@
         </div>
         <div class="lg:w-1/2 md:w-1/2 w-full px-4">
           <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">LIÊN HỆ</h2>
-          <div class="grid grid-rows-4 grid-col-2 gap-4 bg-gray-100 rounded-lg p-2 flex flex-col md:ml-auto w-full mt-10 md:mt-0">
-            <div class="row-span-1 col-span-1">
-              <input type="text" name="name" id="name" class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:bg-transparent focus:ring-2 focus:ring-green-200 focus:border-green-500 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out" required="required" placeholder="Tên Anh/Chị">
+          <form id="main-contact-form" method="POST">
+            <div
+              class="grid grid-rows-4 grid-col-2 gap-4 bg-gray-100 rounded-lg p-2 flex flex-col md:ml-auto w-full mt-10 md:mt-0">
+
+              <div class="row-span-1 col-span-1">
+                <input type="text" name="name" id="name"
+                  class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:bg-transparent focus:ring-2 focus:ring-green-200 focus:border-green-500 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+                  required="required" placeholder="Tên Anh/Chị">
+              </div>
+              <div class="row-span-1 col-span-1">
+                <input type="text" name="phone" id="phone"
+                  class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:bg-transparent focus:ring-2 focus:ring-green-200 focus:border-green-500 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+                  required="required" placeholder="Điện thoại">
+              </div>
+              <textarea name="message" id="message"
+                class="row-span-2 col-span-2 bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:bg-transparent focus:ring-2 focus:ring-green-200 focus:border-green-500 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+                required="required" placeholder="Nội dung"></textarea>
+              <div class="row-span-1 col-span-2">
+                <button type="submit"
+                  class="w-full py-2 px-4 rounded text-white bg-green-500 border-0 py-2 px-4 focus:outline-none hover:bg-green-600 rounded">Gửi</button>
+              </div>
+
             </div>
-            <div class="row-span-1 col-span-1">
-              <input type="text" name="phone" id="phone" class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:bg-transparent focus:ring-2 focus:ring-green-200 focus:border-green-500 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out" required="required" placeholder="Điện thoại">
-            </div>
-              <textarea name="message" id="message" class="row-span-2 col-span-2 bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:bg-transparent focus:ring-2 focus:ring-green-200 focus:border-green-500 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out" required="required" placeholder="Nội dung"></textarea>
-            <div class="row-span-1 col-span-2">
-              <button class="w-full py-2 px-4 rounded text-white bg-green-500 border-0 py-2 px-4 focus:outline-none hover:bg-green-600 rounded">Gửi</button>
-              <!-- w-full py-2 px-4 rounded bg-orange-600 hover:bg-orange-700 text-white font-bold -->
-            </div>
-          </div>
+          </form>
         </div>
       </div>
     </div>
@@ -194,10 +220,18 @@
         <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
           <svg width="33" height="28" xmlns="http://www.w3.org/2000/svg" class="nui-svg nui-svg-mountains">
             <g fill="none" fill-rule="evenodd">
-              <path class="fill-nuxt-lightgreen" fill="#00C58E" d="m19.27238,20.20885l-2.02929,-2.02929l-1.13623,-1.13635l-1.2222,-1.2222c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38051,-0.38073 0.38051,-0.99801 -0.00012,-1.37875z"></path>
-              <path class="fill-nuxt-lightgreen" fill="#00C58E" d="m12.33299,13.26956l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38073,-0.38084 0.38073,-0.99801 0,-1.37875z"></path>
-              <path class="fill-nuxt-green" fill="#108775" d="m19.27238,6.33017l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-1.15402,1.15402l-1.13646,1.13646l-2.09724,2.09736c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38051,-0.38073 0.38051,-0.99801 -0.00012,-1.37875l-0.00001,0.00001z"></path>
-              <path class="fill-current" fill="#2f495e" d="m26.21167,13.26956l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37864,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37864,0l4.38784,-4.38784c0.38073,-0.38084 0.38073,-0.99801 0,-1.37875z" fill-rule="nonzero"></path>
+              <path class="fill-nuxt-lightgreen" fill="#00C58E"
+                d="m19.27238,20.20885l-2.02929,-2.02929l-1.13623,-1.13635l-1.2222,-1.2222c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38051,-0.38073 0.38051,-0.99801 -0.00012,-1.37875z">
+              </path>
+              <path class="fill-nuxt-lightgreen" fill="#00C58E"
+                d="m12.33299,13.26956l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38073,-0.38084 0.38073,-0.99801 0,-1.37875z">
+              </path>
+              <path class="fill-nuxt-green" fill="#108775"
+                d="m19.27238,6.33017l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37875,0l-1.15402,1.15402l-1.13646,1.13646l-2.09724,2.09736c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37875,0l4.38784,-4.38784c0.38051,-0.38073 0.38051,-0.99801 -0.00012,-1.37875l-0.00001,0.00001z">
+              </path>
+              <path class="fill-current" fill="#2f495e"
+                d="m26.21167,13.26956l-4.38784,-4.38784c-0.38073,-0.38073 -0.99801,-0.38073 -1.37864,0l-4.38784,4.38784c-0.38073,0.38073 -0.38073,0.99801 0,1.37875l4.38784,4.38784c0.38073,0.38073 0.99801,0.38073 1.37864,0l4.38784,-4.38784c0.38073,-0.38084 0.38073,-0.99801 0,-1.37875z"
+                fill-rule="nonzero"></path>
             </g>
           </svg>
           <span class="ml-3 text-xl">{{ site.name }}</span>
@@ -207,13 +241,17 @@
         </p>
         <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
           <a class="text-gray-500" href="https://facebook.com/{{ site.footer-links.facebook }}">
-            <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
+            <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5"
+              viewBox="0 0 24 24">
               <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
             </svg>
           </a>
           <a class="ml-3 text-gray-500" href="https://twitter.com/{{ site.footer-links.twitter }}">
-            <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-              <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path>
+            <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5"
+              viewBox="0 0 24 24">
+              <path
+                d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z">
+              </path>
             </svg>
           </a>
         </span>
