@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<link rel="stylesheet" href="/css/stackoverflow-dark.min.css">
+<script src="/js/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
 <script type="application/ld+json">
   {"@context":"https://schema.org/","@type":"Product","name":"{{ page.title }}","image":["https://tipici.vn{{ page.image }}"],"description":"{{ page.excerpt | strip_html }}","sku":"{{ page.sku }}","mpn":"{{ page.sku }}","brand":{"@type":"Thing","name":"Sinh Tài"},"review":{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"author":{"@type":"Person","name":"A.Thành"}},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":"89"},"offers":{"@type":"Offer","url":"https://tipici.vn/{{ page.url }}","priceCurrency":"VND","price":"{{ page.price }}","priceValidUntil":"2020-11-25","itemCondition":"https://schema.org/UsedCondition","availability":"https://schema.org/InStock","seller":{"@type":"Organization","name":"{{ site.name }}"}}}
 </script>
@@ -20,13 +23,13 @@ layout: default
                 </div>
                 <div class="flex-grow pl-6">
                   <h1 class="title-font text-xl font-medium text-gray-900 mb-3">{{ page.title }}</h1>
-                  <p class="leading-relaxed mb-5">{{ page.priceText }}</p>
                 </div>
               </div>
             </div>
             <div class="post-content overflow">
               {{ content }}
-              <div class="post-bottom overflow">
+              <div class="post-bottom overflow mt-5">
+                <hr />
                 <ul class="nav navbar-nav post-nav">
                   {% for category in page.categories %}
                   <li><a href="#"><i class="fa fa-tag"></i>{{ category }}</a></li>

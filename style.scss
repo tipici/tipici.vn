@@ -14,3 +14,21 @@
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 // @import "highlights";
 // @import "svg-icons";
+
+.blog-details {
+  h1 h2 {
+    margin: 6px 0!important;
+    color: rgba(31,41,55,var(--tw-text-opacity));
+    --tw-text-opacity: 1;
+    }
+  h1 {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+  }
+}
+

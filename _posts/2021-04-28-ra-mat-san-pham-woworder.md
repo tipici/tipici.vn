@@ -4,9 +4,8 @@ title: Ra mắt sản phẩm mới WowOrder
 categories: [Blog]
 image: /images/blog/woworder.png
 thumb: /images/blog/woworder.png
-priceText: từ 30.000.000₫
-price: 30000000
 sku: TPC101
+author: Jack
 ---
 
 ### TỐI ƯU HIỆU NĂNG
