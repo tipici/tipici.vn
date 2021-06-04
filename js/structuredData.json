@@ -66,9 +66,9 @@
                     "position": 2,
                     "item": {
                         "@type": "WebPage",
-                        "@id": "https://tipici.vn/man-rem/#breadcrumlist2",
-                        "url": "https://tipici.vn/man-rem",
-                        "name": "Màn rèm"
+                        "@id": "https://tipici.vn/about/#breadcrumlist2",
+                        "url": "https://tipici.vn/about",
+                        "name": "Giới thiệu"
                     }
                 }
             ]
