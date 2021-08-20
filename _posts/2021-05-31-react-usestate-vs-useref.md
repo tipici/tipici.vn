@@ -2,8 +2,8 @@
 layout: post
 title: Sơ lược về useState và useRef trong reactjs
 categories: [Blog]
-image: /images/blog/react-usestate-vs-useref/react-hooks-lifecycle-diagram.avif
-thumb: /images/blog/react-usestate-vs-useref/react-hooks-lifecycle-diagram.avif
+image: /images/blog/react-usestate-vs-useref/react-hooks-lifecycle-diagram.jpeg
+thumb: /images/blog/react-usestate-vs-useref/react-hooks-lifecycle-diagram.jpeg
 sku: Blog002
 date: 31-05-2021
 author: Jack

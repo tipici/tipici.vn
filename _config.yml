@@ -72,6 +72,8 @@ collections:
     output: true
   members:
     people: true
+  wipass:
+    output: true
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
